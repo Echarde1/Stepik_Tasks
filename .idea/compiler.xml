@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Algorithms_Chapter_One" target="1.5" />
+      <module name="Algorithms_Chapter_Two" target="1.5" />
+      <module name="Basic_Data_Structures" target="1.5" />
+      <module name="Binary_Search" target="1.5" />
+      <module name="Brackets" target="1.5" />
+      <module name="Calculator_Dynamic" target="1.5" />
+      <module name="Closest_Pair_Of_Points" target="8" />
+      <module name="Counting_Sort" target="8" />
+      <module name="Divide_And_Conquer" target="1.5" />
+      <module name="Dynamic_Backpack" target="8" />
+      <module name="Dynamic_Programming" target="1.5" />
+      <module name="Editing_Distance" target="1.5" />
+      <module name="Greedy_Algorithms" target="1.5" />
+      <module name="Largest_Increasing_Sequence" target="1.5" />
+      <module name="Matrix" target="1.5" />
+      <module name="Maximize_Expression_With_Brackets" target="1.5" />
+      <module name="MergeSort_Inversions" target="1.5" />
+      <module name="Net_Packages_Processing" target="7" />
+      <module name="Segments_QuickSort_Binary_Search" target="8" />
+      <module name="Sliding_Window" target="7" />
+      <module name="Stairway" target="1.5" />
+      <module name="Stepik_Projects" target="1.5" />
+      <module name="Tree_Height" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

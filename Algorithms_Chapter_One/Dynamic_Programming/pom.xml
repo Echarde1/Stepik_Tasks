@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <parent>
+    <artifactId>Algorithms_Chapter_One</artifactId>
+    <groupId>Java_Projects</groupId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+
+  <artifactId>Dynamic_Programming</artifactId>
+  <packaging>pom</packaging>
+  <modules>
+    <module>Calculator_Dynamic</module>
+    <module>Dynamic_Backpack</module>
+    <module>Editing_Distance</module>
+    <module>Largest_Increasing_Sequence</module>
+    <module>Matrix</module>
+    <module>Maximize_Expression_With_Brackets</module>
+    <module>Stairway</module>
+  </modules>
+
+</project>
