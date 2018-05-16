@@ -1,9 +1,7 @@
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Comparator;
 
 public class Optimized_Points {
@@ -11,136 +9,84 @@ public class Optimized_Points {
     public static void main(String[] args) throws IOException {
         BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(input.readLine());
-        Point[] P = new Point[n];
+        ArrayList<Point> P = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             String[] temp = input.readLine().split(" ");
             long x = Long.parseLong(temp[0]);
             long y = Long.parseLong(temp[1]);
-            P[i] = new Point(x, y);
+            P.add( new Point(x, y) );
         }
 
         System.out.printf("%.9f\n", closest(P, n));
     }
 
-    /*private static double findMinDistance(Point[] P, int low, int high) {
-        double min = Double.MAX_VALUE;
-        for (int i = low; i < high; ++i) {
-            for (int j = i + 1; j < high; ++j) {
-                min = Math.min(distance(P[i], P[j]), min);
-            }
-        }
-        return min;
-    }*/
-
-    private static double stripClosest(Point[] strip, int size, double d) {
+    private static double stripClosest(ArrayList<Point> strip, int size, double d) {
         double min = d;
 
         for (int i = 0; i < size; ++i) {
-            for (int j = i + 1; j < size && (strip[j].y - strip[i].y) < min; ++j) {
-                min = Math.min(distance(strip[i], strip[j]), min);
+            for (int j = i + 1; j < size && (strip.get(j).y - strip.get(i).y) < min; ++j) {
+                min = Math.min(distance(strip.get(i), strip.get(j)), min);
             }
         }
 
         return min;
     }
 
-    /*private static double closestUtil(Point[] Px, Point[] Py, int low, int high) {
-        if (high - low <= 3) return findMinDistance(Px, low, high);
-
-        int mid = (high + low) / 2;
-        Point midPoint = Px[mid];
-
-        ArrayList<Point> PylTemp = new ArrayList<>();
-        ArrayList<Point> PyrTemp = new ArrayList<>();
-
-        for (int i = 0; i < Py.length; i++) {
-            if (Py[i].x <= midPoint.x && PylTemp.size() != high - mid) {
-                PylTemp.add(Py[i]);
-            } else {
-                PyrTemp.add(Py[i]);
-            }
-        }
-
-        Point[] Pyl = new Point[PylTemp.size()];
-        Pyl = PylTemp.toArray(Pyl);
-
-        Point[] Pyr = new Point[PyrTemp.size()];
-        Pyr = PyrTemp.toArray(Pyr);
-
-        double dl = closestUtil(Px, Pyl, low, mid);
-        double dr = closestUtil(Px, Pyr, mid, high);
-
-        double d = Math.min(dl, dr);
-
-        ArrayList<Point> stripTemp = new ArrayList<>();
-
-        int j = 0;
-        for (int i = 0; i < Py.length; i++) {
-          if (Math.abs(Py[i].x - midPoint.x) < d) {
-            stripTemp.add(j++, Py[i]);
-          }
-        }
-
-        Point[] strip = new Point[stripTemp.size()];
-        strip = stripTemp.toArray(strip);
-
-        return Math.min(d, stripClosest(strip, j ,d) );
-    }*/
-
-    private static double findMinDistance(Point[] P, int n) {
+    private static double findMinDistance(ArrayList<Point> P, int n) {
         double min = Double.MAX_VALUE;
         for (int i = 0; i < n; ++i) {
             for (int j = i + 1; j < n; ++j) {
-                min = Math.min(distance(P[i], P[j]), min);
+                min = Math.min(distance(P.get(i), P.get(j)), min);
             }
         }
         return min;
     }
 
-    private static double closestUtil(Point[] Px, Point[] Py, int n) {
+    private static double closestUtil(ArrayList<Point> Px, ArrayList<Point> Py, int n) {
         if (n <= 3) return findMinDistance(Px, n);
 
+        ArrayList<Point> Pxr = new ArrayList<>();
+        ArrayList<Point> Pxl = new ArrayList<>();
+
         int mid = n / 2;
-        Point midPoint = Px[mid];
+        Point midPoint = Px.get(mid);
 
-        Point[] Pxl = new Point[mid];
-        System.arraycopy(Px, 0, Pxl, 0, mid);
-        Point[] Pxr = new Point[n - mid];
-        System.arraycopy(Px, mid, Pxr, 0, n - mid);
-        Point[] Pyl = new Point[Pxl.length];
-        Point[] Pyr = new Point[Pxr.length];
+        Pxl.addAll(Px.subList(0, mid));
+        Pxr.addAll(Px.subList(mid + 1, n));
 
+        ArrayList<Point> Pyl = new ArrayList<>();
+        ArrayList<Point> Pyr = new ArrayList<>();
 
-
-        double dl = closestUtil(Px, Pyl, mid);
-        double dr = closestUtil(Px, Pyr, mid);
-
-        double d = Math.min(dl, dr);
-
-        ArrayList<Point> stripTemp = new ArrayList<>();
-
-        int j = 0;
-        for (int i = 0; i < Py.length; i++) {
-          if (Math.abs(Py[i].x - midPoint.x) < d) {
-            stripTemp.add(j++, Py[i]);
+        for (int i = 0; i < n; i++) {
+          if (Pxl.contains(Py.get(i))) {
+            Pyl.add( Py.get(i) );
+          } else if (Pxr.contains( Py.get(i) )){
+            Pyr.add(Py.get(i));
           }
         }
 
-        Point[] strip = new Point[stripTemp.size()];
-        strip = stripTemp.toArray(strip);
+        double dl = closestUtil(Pxl, Pyl, Pyl.size());
+        double dr = closestUtil(Pxr, Pyr, Pyr.size());
 
-        return Math.min(d, stripClosest(strip, j ,d) );
+        double d = Math.min(dl, dr);
+
+        ArrayList<Point> strip = new ArrayList<>();
+
+        int j = 0;
+        for (int i = 0; i < Py.size(); i++) {
+          if (Math.abs(Py.get(i).x - midPoint.x) < d) {
+            strip.add(j++, Py.get(i));
+          }
+        }
+
+        return Math.min(d, stripClosest(strip, j, d) );
     }
 
-    static double closest(Point[] P, int n) {
-        Point[] Px = new Point[n];
-        Point[] Py = new Point[n];
-
-        System.arraycopy(P, 0, Px, 0, n);
-        System.arraycopy(P, 0, Py, 0, n);
-
-        Arrays.sort(Px, Comparator.comparingLong(o -> o.x));
-        Arrays.sort(Py, Comparator.comparingLong(o -> o.y));
+    static double closest(ArrayList<Point> P, int n) {
+        ArrayList<Point> Px = new ArrayList<>(P);
+        ArrayList<Point> Py = new ArrayList<>(P);
+        Px.sort(Comparator.comparingLong(o -> o.x));
+        Py.sort(Comparator.comparingLong(o -> o.y));
 
         return closestUtil(Px, Py, n);
     }
@@ -151,9 +97,9 @@ public class Optimized_Points {
         );
     }
 
-    private static void printPoints(Point[] P, int n) {
+    private static void printPoints(ArrayList<Point> P, int n) {
         for (int i = 0; i < n; i++) {
-            System.out.println(P[i].x + " " + P[i].y);
+            System.out.println(P.get(i).x + " " + P.get(i).y);
         }
         System.out.println();
     }
