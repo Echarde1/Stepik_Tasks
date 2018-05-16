@@ -57,6 +57,8 @@ public class Optimized_Points {
         ArrayList<Point> Pyl = new ArrayList<>();
         ArrayList<Point> Pyr = new ArrayList<>();
 
+
+        //O(n^2) =(
         for (int i = 0; i < n; i++) {
           if (Pxl.contains(Py.get(i))) {
             Pyl.add( Py.get(i) );
@@ -64,6 +66,7 @@ public class Optimized_Points {
             Pyr.add(Py.get(i));
           }
         }
+        //
 
         double dl = closestUtil(Pxl, Pyl, Pyl.size());
         double dr = closestUtil(Pxr, Pyr, Pyr.size());

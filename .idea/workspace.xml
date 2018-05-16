@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edcac98d-b56d-4b7a-8268-85b91a6f30e1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Optimized_Points.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Optimized_Points.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Test_Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Test_Class.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/MergeSort_Inversions/target/" />
     <ignored path="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Counting_Sort/target/" />
@@ -44,7 +39,7 @@
       <file leaf-file-name="Closest_Pair_Of_Points.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255">
+            <state relative-caret-position="405">
               <caret line="32" column="75" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
               <folding>
                 <element signature="method#distance#0;class#Closest_Pair_Of_Points#0" />
@@ -57,8 +52,8 @@
       <file leaf-file-name="Optimized_Points.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="59" column="37" lean-forward="true" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+            <state relative-caret-position="-255">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="method#printPoints#0;class#Optimized_Points#0" />
                 <element signature="method#Point#0;class#Point#0" />
@@ -70,7 +65,7 @@
       <file leaf-file-name="Test_Class.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
+            <state relative-caret-position="240">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
@@ -78,11 +73,7 @@
       </file>
       <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-450">
-              <caret lean-forward="true" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -289,20 +280,21 @@
       <workItem from="1526282517999" duration="19639000" />
       <workItem from="1526321950499" duration="10229000" />
       <workItem from="1526367428060" duration="312000" />
-      <workItem from="1526463398815" duration="5189000" />
+      <workItem from="1526463398815" duration="5954000" />
+      <workItem from="1526489557495" duration="191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36367000" />
+    <option name="totallyTimeSpent" value="37352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32730263" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -311,7 +303,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32730263" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32730263" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32676518" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.3" />
@@ -328,34 +320,35 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32730263" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32840723" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Key Promoter X" order="5" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32840723" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5041051" />
+      <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32840723" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5041051" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32840723" />
       <window_info anchor="right" id="Maven Projects" order="9" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -384,6 +377,42 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="75" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
+          <folding>
+            <element signature="method#distance#0;class#Closest_Pair_Of_Points#0" />
+            <element signature="method#printPoints#0;class#Closest_Pair_Of_Points#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="method#printPoints#0;class#Optimized_Points#0" />
+            <element signature="method#Point#0;class#Point#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -514,12 +543,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
+        <state relative-caret-position="405">
           <caret line="32" column="75" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
           <folding>
             <element signature="method#distance#0;class#Closest_Pair_Of_Points#0" />
@@ -529,15 +555,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
-          <caret lean-forward="true" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="240">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
@@ -546,17 +568,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="307" lean-forward="true" selection-start-line="307" selection-end-line="307" />
-          <folding>
-            <element signature="e#11264#11265#0" expanded="true" />
-            <element signature="e#11302#11303#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="59" column="37" lean-forward="true" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        <state relative-caret-position="-255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="method#printPoints#0;class#Optimized_Points#0" />
             <element signature="method#Point#0;class#Point#0" />
