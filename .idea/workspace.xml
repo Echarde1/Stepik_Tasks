@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edcac98d-b56d-4b7a-8268-85b91a6f30e1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Optimized_Points.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Optimized_Points.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Test_Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Test_Class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/Largest_Increasing_Sequence.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/Largest_Increasing_Sequence.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/Optimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/Optimized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Substring_Search/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Substring_Search/src/main/java/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/MergeSort_Inversions/target/" />
     <ignored path="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Counting_Sort/target/" />
@@ -37,6 +27,21 @@
     <ignored path="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/target/" />
     <ignored path="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Matrix/target/" />
     <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Search_Trees/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Phone_Numbers/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Search_Trees/Tree_Traversal/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Placing_Parentheses_Problem/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Search_Trees/Tree_Property/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Heap_Building/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Parallel_Processing/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Auto_Tas_Checking/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Hasing_With_Chains/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Substring_Search/target/" />
+    <ignored path="$PROJECT_DIR$/Java. Functional programming/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Table_Unioning/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithms_Chapter_Two/Search_Trees/BinarySearchTree/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +51,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Closest_Pair_Of_Points.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
+      <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Substring_Search/src/main/java/input.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Substring_Search/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="855">
+              <caret line="131" column="31" selection-start-line="131" selection-start-column="31" selection-end-line="131" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#randomX#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractStringBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="989" column="18" selection-start-line="989" selection-start-column="18" selection-end-line="989" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Hasing_With_Chains/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="23" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -68,6 +100,9 @@
     <findStrings>
       <find>long</find>
       <find>contains</find>
+      <find>buffer</find>
+      <find>sub</find>
+      <find>substring</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -84,6 +119,7 @@
         <option value="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/Iluha.java" />
         <option value="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/input.txt" />
         <option value="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/Optimized.java" />
+        <option value="$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Substring_Search/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -93,11 +129,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="548" />
-    <option name="y" value="95" />
-    <option name="width" value="673" />
-    <option name="height" value="555" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-311" />
+    <option name="y" value="81" />
+    <option name="width" value="1366" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -105,6 +141,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -116,54 +154,116 @@
             <path>
               <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms_Chapter_One" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms_Chapter_Two" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms_Chapter_One" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms_Chapter_Two" type="462c0819:PsiDirectoryNode" />
+              <item name="Hash_Tables" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms_Chapter_One" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="Largest_Increasing_Sequence" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms_Chapter_Two" type="462c0819:PsiDirectoryNode" />
+              <item name="Hash_Tables" type="462c0819:PsiDirectoryNode" />
+              <item name="Hasing_With_Chains" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms_Chapter_One" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="Largest_Increasing_Sequence" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms_Chapter_Two" type="462c0819:PsiDirectoryNode" />
+              <item name="Hash_Tables" type="462c0819:PsiDirectoryNode" />
+              <item name="Hasing_With_Chains" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms_Chapter_One" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="Largest_Increasing_Sequence" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms_Chapter_Two" type="462c0819:PsiDirectoryNode" />
+              <item name="Hash_Tables" type="462c0819:PsiDirectoryNode" />
+              <item name="Hasing_With_Chains" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms_Chapter_One" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="Largest_Increasing_Sequence" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms_Chapter_Two" type="462c0819:PsiDirectoryNode" />
+              <item name="Hash_Tables" type="462c0819:PsiDirectoryNode" />
+              <item name="Hasing_With_Chains" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms_Chapter_Two" type="462c0819:PsiDirectoryNode" />
+              <item name="Hash_Tables" type="462c0819:PsiDirectoryNode" />
+              <item name="Substring_Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms_Chapter_Two" type="462c0819:PsiDirectoryNode" />
+              <item name="Hash_Tables" type="462c0819:PsiDirectoryNode" />
+              <item name="Substring_Search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms_Chapter_Two" type="462c0819:PsiDirectoryNode" />
+              <item name="Hash_Tables" type="462c0819:PsiDirectoryNode" />
+              <item name="Substring_Search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms_Chapter_Two" type="462c0819:PsiDirectoryNode" />
+              <item name="Hash_Tables" type="462c0819:PsiDirectoryNode" />
+              <item name="Substring_Search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,10 +286,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Optimized">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Closest_Pair_Of_Points" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Closest_Pair_Of_Points" />
       <module name="Closest_Pair_Of_Points" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Substring_Search" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="Optimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -253,9 +358,11 @@
       <item itemvalue="Application.Test_Class" />
       <item itemvalue="Application.Closest_Pair_Of_Points" />
       <item itemvalue="Application.Optimized" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Optimized" />
         <item itemvalue="Application.Test_Class" />
         <item itemvalue="Application.Optimized_Points" />
@@ -281,30 +388,41 @@
       <workItem from="1526489557495" duration="5013000" />
       <workItem from="1526542720475" duration="4225000" />
       <workItem from="1526633396472" duration="3825000" />
+      <workItem from="1529915182124" duration="2401000" />
     </task>
+    <task id="LOCAL-00001" summary="SubstringSearch. 36th test crashes.">
+      <created>1529915392076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529915392076</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50195000" />
+    <option name="totallyTimeSpent" value="52596000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <frame x="0" y="-33" width="1366" height="801" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="9" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32730263" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23848684" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.8125" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23733719" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3256579" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -318,7 +436,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32730263" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,6 +443,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SubstringSearch. 36th test crashes." />
+    <option name="LAST_COMMIT_MESSAGE" value="SubstringSearch. 36th test crashes." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -336,6 +457,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -577,7 +705,42 @@
     <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="469">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Substring_Search/src/main/java/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Hasing_With_Chains/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="989" column="18" selection-start-line="989" selection-start-column="18" selection-end-line="989" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Substring_Search/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="131" column="31" selection-start-line="131" selection-start-column="31" selection-end-line="131" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#randomX#0;class#Main#0" />
+          </folding>
         </state>
       </provider>
     </entry>

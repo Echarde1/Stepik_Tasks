@@ -1,3 +1,4 @@
+/*
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -14,9 +15,11 @@ public class Main {
 
   private static final BigInteger p = BigInteger.valueOf(101);
   private BigInteger x;
-  /**
+  */
+/**
    * x^(|P|-1) % p
-   **/
+   **//*
+
   private BigInteger xp;
 
   private StringBuilder positions = new StringBuilder();
@@ -86,14 +89,17 @@ public class Main {
   }
 
   private BigInteger hash(String window, BigInteger prevWindowHash, String prevWindow) {
-    /*BigInteger lastChar = BigInteger.valueOf(prevWindow.charAt(pattern.length() - 1));
+    */
+/*BigInteger lastChar = BigInteger.valueOf(prevWindow.charAt(pattern.length() - 1));
     BigInteger firstChar = BigInteger.valueOf(window.codePointAt(0));
 
     BigInteger subtraction = prevWindowHash.subtract(lastChar.multiply(xp).mod(p)).mod(p);
     BigInteger multiply = subtraction.multiply(x).mod(p);
-    BigInteger hash = multiply.add(firstChar);*/
+    BigInteger hash = multiply.add(firstChar);*//*
+
 
     //    return hash;
+
     BigInteger temp = prevWindowHash
         .subtract(BigInteger.valueOf(prevWindow.charAt(pattern.length() - 1))
             .multiply(xp).mod(p)).mod(p).multiply(x).mod(p)
@@ -110,7 +116,8 @@ public class Main {
 //    BigInteger hash = BigInteger.ZERO;
     BigInteger pizdec = BigInteger.ZERO;
 
-    /*for (int i = 0; i < pattern.length(); i++) {
+    */
+/*for (int i = 0; i < pattern.length(); i++) {
       char c = pattern.charAt(i);
 //      BigInteger symbol = BigInteger.valueOf(c);
 //      BigInteger power = x.pow(i).mod(p);
@@ -118,7 +125,8 @@ public class Main {
 //      hash = hash.add(multiplication).mod(p);
 
       pizdec = pizdec.add(BigInteger.valueOf(c).multiply(x.pow(i).mod(p)).mod(p)).mod(p);
-    }*/
+    }*//*
+
 
     int i = 0;
     for (char c : pattern.toCharArray()) {
@@ -136,3 +144,4 @@ public class Main {
 
 
 }
+*/
