@@ -19,6 +19,7 @@
     <module>Matrix</module>
     <module>Maximize_Expression_With_Brackets</module>
     <module>Stairway</module>
+    <module>Placing_Parentheses_Problem</module>
   </modules>
 
 </project>

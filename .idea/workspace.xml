@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edcac98d-b56d-4b7a-8268-85b91a6f30e1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Optimized_Points.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Optimized_Points.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Test_Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/target/classes/Test_Class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/Largest_Increasing_Sequence.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/Largest_Increasing_Sequence.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/Optimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/Optimized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/input.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/MergeSort_Inversions/target/" />
     <ignored path="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Counting_Sort/target/" />
@@ -36,47 +46,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Closest_Pair_Of_Points.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Closest_Pair_Of_Points.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="32" column="75" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
-              <folding>
-                <element signature="method#distance#0;class#Closest_Pair_Of_Points#0" />
-                <element signature="method#printPoints#0;class#Closest_Pair_Of_Points#0" />
-              </folding>
+            <state relative-caret-position="469">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Optimized_Points.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="method#printPoints#0;class#Optimized_Points#0" />
-                <element signature="method#Point#0;class#Point#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test_Class.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/input.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -92,9 +78,12 @@
       <list>
         <option value="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java" />
         <option value="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/input.txt" />
+        <option value="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java" />
         <option value="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java" />
+        <option value="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/Iluha.java" />
+        <option value="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/input.txt" />
+        <option value="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/Optimized.java" />
       </list>
     </option>
   </component>
@@ -104,10 +93,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="27" />
-    <option name="width" value="683" />
-    <option name="height" value="741" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="548" />
+    <option name="y" value="95" />
+    <option name="width" value="673" />
+    <option name="height" value="555" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -115,8 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -134,29 +122,29 @@
               <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms_Chapter_One" type="462c0819:PsiDirectoryNode" />
-              <item name="Divide_And_Conquer" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms_Chapter_One" type="462c0819:PsiDirectoryNode" />
-              <item name="Divide_And_Conquer" type="462c0819:PsiDirectoryNode" />
-              <item name="Closest_Pair_Of_Points" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="Largest_Increasing_Sequence" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms_Chapter_One" type="462c0819:PsiDirectoryNode" />
-              <item name="Divide_And_Conquer" type="462c0819:PsiDirectoryNode" />
-              <item name="Closest_Pair_Of_Points" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="Largest_Increasing_Sequence" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms_Chapter_One" type="462c0819:PsiDirectoryNode" />
-              <item name="Divide_And_Conquer" type="462c0819:PsiDirectoryNode" />
-              <item name="Closest_Pair_Of_Points" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="Largest_Increasing_Sequence" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -164,8 +152,8 @@
               <item name="Stepik_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stepik_Projects" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms_Chapter_One" type="462c0819:PsiDirectoryNode" />
-              <item name="Divide_And_Conquer" type="462c0819:PsiDirectoryNode" />
-              <item name="Closest_Pair_Of_Points" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="Largest_Increasing_Sequence" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -174,6 +162,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,10 +186,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test_Class">
+  <component name="RunManager" selected="Application.Optimized">
     <configuration name="Closest_Pair_Of_Points" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Closest_Pair_Of_Points" />
       <module name="Closest_Pair_Of_Points" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Optimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Optimized" />
+      <module name="Largest_Increasing_Sequence" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="Optimized_Points" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -257,9 +252,11 @@
       <item itemvalue="Application.Optimized_Points" />
       <item itemvalue="Application.Test_Class" />
       <item itemvalue="Application.Closest_Pair_Of_Points" />
+      <item itemvalue="Application.Optimized" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Optimized" />
         <item itemvalue="Application.Test_Class" />
         <item itemvalue="Application.Optimized_Points" />
         <item itemvalue="Application.Closest_Pair_Of_Points" />
@@ -281,78 +278,48 @@
       <workItem from="1526321950499" duration="10229000" />
       <workItem from="1526367428060" duration="312000" />
       <workItem from="1526463398815" duration="5954000" />
-      <workItem from="1526489557495" duration="191000" />
+      <workItem from="1526489557495" duration="5013000" />
+      <workItem from="1526542720475" duration="4225000" />
+      <workItem from="1526633396472" duration="3825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37352000" />
+    <option name="totallyTimeSpent" value="50195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Key Promoter X" order="9" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32730263" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32676518" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41282895" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32730263" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32840723" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23848684" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3256579" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3" />
       <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32840723" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5041051" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4506579" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32840723" />
-      <window_info anchor="right" id="Maven Projects" order="9" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-    </layout-to-restore>
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32730263" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -362,18 +329,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="57" />
+      <option name="time" value="68" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -381,10 +340,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="75" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
-          <folding>
-            <element signature="method#distance#0;class#Closest_Pair_Of_Points#0" />
-            <element signature="method#printPoints#0;class#Closest_Pair_Of_Points#0" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/Iluha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/Optimized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="75" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="84" selection-start-line="17" selection-start-column="84" selection-end-line="17" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="75" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
         </state>
       </provider>
     </entry>
@@ -406,10 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="method#printPoints#0;class#Optimized_Points#0" />
-            <element signature="method#Point#0;class#Point#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -417,10 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="75" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
-          <folding>
-            <element signature="method#distance#0;class#Closest_Pair_Of_Points#0" />
-            <element signature="method#printPoints#0;class#Closest_Pair_Of_Points#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -435,10 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1680">
           <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
-          <folding>
-            <element signature="method#printPoints#0;class#Optimized_Points#0" />
-            <element signature="method#Point#0;class#Point#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -446,10 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="75" lean-forward="true" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
-          <folding>
-            <element signature="method#distance#0;class#Closest_Pair_Of_Points#0" />
-            <element signature="method#printPoints#0;class#Closest_Pair_Of_Points#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -471,10 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1770">
           <caret line="118" selection-start-line="118" selection-end-line="118" />
-          <folding>
-            <element signature="method#printPoints#0;class#Optimized_Points#0" />
-            <element signature="method#Point#0;class#Point#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -482,10 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="method#distance#0;class#Closest_Pair_Of_Points#0" />
-            <element signature="method#printPoints#0;class#Closest_Pair_Of_Points#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -500,10 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1230">
           <caret line="82" column="11" selection-start-line="82" selection-start-column="11" selection-end-line="82" selection-end-column="11" />
-          <folding>
-            <element signature="method#printPoints#0;class#Optimized_Points#0" />
-            <element signature="method#Point#0;class#Point#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -511,10 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding>
-            <element signature="method#distance#0;class#Closest_Pair_Of_Points#0" />
-            <element signature="method#printPoints#0;class#Closest_Pair_Of_Points#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -522,10 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="method#printPoints#0;class#Optimized_Points#0" />
-            <element signature="method#Point#0;class#Point#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -543,42 +525,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="32" column="75" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
-          <folding>
-            <element signature="method#distance#0;class#Closest_Pair_Of_Points#0" />
-            <element signature="method#printPoints#0;class#Closest_Pair_Of_Points#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
-          <caret line="307" lean-forward="true" selection-start-line="307" selection-end-line="307" />
+          <caret line="304" column="19" selection-start-line="304" selection-start-column="19" selection-end-line="304" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/LargestIncreasingSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="91" selection-start-line="17" selection-start-column="91" selection-end-line="17" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/Iluha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/Optimized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/src/main/java/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Test_Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Optimized_Points.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="method#printPoints#0;class#Optimized_Points#0" />
-            <element signature="method#Point#0;class#Point#0" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Closest_Pair_Of_Points/src/main/java/Closest_Pair_Of_Points.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>

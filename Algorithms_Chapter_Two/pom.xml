@@ -13,6 +13,9 @@
   <packaging>pom</packaging>
   <modules>
     <module>Basic_Data_Structures</module>
+    <module>Priority_Queues_And_Disjoint_Set</module>
+    <module>Hash_Tables</module>
+    <module>Search_Trees</module>
   </modules>
 
 

@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Algorithms_Chapter_One.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Algorithms_Chapter_One.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Algorithms_Chapter_Two.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Algorithms_Chapter_Two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Auto_Tas_Checking/Auto_Tas_Checking.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Auto_Tas_Checking/Auto_Tas_Checking.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Basic_Data_Structures/Basic_Data_Structures.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Basic_Data_Structures/Basic_Data_Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Search_Trees/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Search_Trees/BinarySearchTree/BinarySearchTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Binary_Search/Binary_Search.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Binary_Search/Binary_Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Basic_Data_Structures/Brackets/Brackets.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Basic_Data_Structures/Brackets/Brackets.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Calculator_Dynamic/Calculator_Dynamic.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Calculator_Dynamic/Calculator_Dynamic.iml" />
@@ -15,16 +17,29 @@
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Dynamic_Programming.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Dynamic_Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Editing_Distance/Editing_Distance.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Editing_Distance/Editing_Distance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Greedy_Algorithms/Greedy_Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Greedy_Algorithms/Greedy_Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Hash_Tables.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Hash_Tables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Hasing_With_Chains/Hasing_With_Chains.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Hasing_With_Chains/Hasing_With_Chains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Heap_Building/Heap_Building.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Heap_Building/Heap_Building.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java. Functional programming/Java. Functional programming.iml" filepath="$PROJECT_DIR$/Java. Functional programming/Java. Functional programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/Largest_Increasing_Sequence.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Largest_Increasing_Sequence/Largest_Increasing_Sequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Matrix/Matrix.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Matrix/Matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Maximize_Expression_With_Brackets/Maximize_Expression_With_Brackets.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Maximize_Expression_With_Brackets/Maximize_Expression_With_Brackets.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/MergeSort_Inversions/MergeSort_Inversions.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/MergeSort_Inversions/MergeSort_Inversions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Basic_Data_Structures/Net_Packages_Processing/Net_Packages_Processing.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Basic_Data_Structures/Net_Packages_Processing/Net_Packages_Processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Parallel_Processing/Parallel_Processing.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Parallel_Processing/Parallel_Processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Phone_Numbers/Phone_Numbers.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Phone_Numbers/Phone_Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Placing_Parentheses_Problem/Placing_Parentheses_Problem.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Placing_Parentheses_Problem/Placing_Parentheses_Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Priority_Queues_And_Disjoint_Set.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Priority_Queues_And_Disjoint_Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Search_Trees/Search_Trees.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Search_Trees/Search_Trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Segments_QuickSort_Binary_Search/Segments_QuickSort_Binary_Search.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Divide_And_Conquer/Segments_QuickSort_Binary_Search/Segments_QuickSort_Binary_Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Basic_Data_Structures/Sliding_Window/Sliding_Window.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Basic_Data_Structures/Sliding_Window/Sliding_Window.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Stairway/Stairway.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_One/Dynamic_Programming/Stairway/Stairway.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stepik_Projects.iml" filepath="$PROJECT_DIR$/Stepik_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Substring_Search/Substring_Search.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Hash_Tables/Substring_Search/Substring_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Table_Unioning/Table_Unioning.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Priority_Queues_And_Disjoint_Set/Table_Unioning/Table_Unioning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Basic_Data_Structures/Tree_Height/Tree_Height.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Basic_Data_Structures/Tree_Height/Tree_Height.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Search_Trees/Tree_Property/Tree_Property.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Search_Trees/Tree_Property/Tree_Property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms_Chapter_Two/Search_Trees/Tree_Traversal/Tree_Traversal.iml" filepath="$PROJECT_DIR$/Algorithms_Chapter_Two/Search_Trees/Tree_Traversal/Tree_Traversal.iml" />
     </modules>
   </component>
 </project>

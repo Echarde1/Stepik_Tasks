@@ -14,7 +14,7 @@ public class Optimized_Points {
             String[] temp = input.readLine().split(" ");
             long x = Long.parseLong(temp[0]);
             long y = Long.parseLong(temp[1]);
-            P.add( new Point(x, y) );
+            P.add( new Point(x, y, 2) );
         }
 
         System.out.printf("%.9f\n", closest(P, n));
@@ -50,23 +50,31 @@ public class Optimized_Points {
 
         int mid = n / 2;
         Point midPoint = Px.get(mid);
+        midPoint.setPos(2);
 
-        Pxl.addAll(Px.subList(0, mid));
-        Pxr.addAll(Px.subList(mid + 1, n));
+        for (int i = 0; i < mid; i++) {
+            Point point = Px.get(i);
+            point.setPos(0);
+            Pxl.add(point);
+        }
+
+        for (int i = mid + 1; i < n; i++) {
+            Point point = Px.get(i);
+            point.setPos(1);
+            Pxr.add(point);
+        }
 
         ArrayList<Point> Pyl = new ArrayList<>();
         ArrayList<Point> Pyr = new ArrayList<>();
 
-
-        //O(n^2) =(
         for (int i = 0; i < n; i++) {
-          if (Pxl.contains(Py.get(i))) {
-            Pyl.add( Py.get(i) );
-          } else if (Pxr.contains( Py.get(i) )){
-            Pyr.add(Py.get(i));
-          }
+            Point point = Py.get(i);
+            if (point.getPos() == 0) {
+                Pyl.add(point);
+            } else if (point.getPos() == 1) {
+                Pyr.add(point);
+            }
         }
-        //
 
         double dl = closestUtil(Pxl, Pyl, Pyl.size());
         double dr = closestUtil(Pxr, Pyr, Pyr.size());
@@ -111,9 +119,19 @@ public class Optimized_Points {
 class Point {
     long x;
     long y;
+    int pos; //0 - влево, 1 - вправо, 2 - midPoint
 
-    Point(long x, long y) {
+    Point(long x, long y, int pos) {
         this.x = x;
         this.y = y;
+        this.pos = pos;
+    }
+
+    int getPos() {
+        return pos;
+    }
+
+    void setPos(int pos) {
+        this.pos = pos;
     }
 }

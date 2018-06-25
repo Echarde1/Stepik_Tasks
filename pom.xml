@@ -7,6 +7,7 @@
     <modules>
         <module>Algorithms_Chapter_One</module>
         <module>Algorithms_Chapter_Two</module>
+      <module>Java. Functional programming</module>
     </modules>
 
     <parent>

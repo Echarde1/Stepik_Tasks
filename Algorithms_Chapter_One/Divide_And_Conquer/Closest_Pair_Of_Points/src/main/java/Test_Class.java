@@ -15,7 +15,7 @@ public class Test_Class {
             ArrayList<Point> P = new ArrayList<>();
             for (int i = 0; i < n; i++) {
                 String[] temp = scn.nextLine().split(" ");
-                P.add( new Point(Integer.parseInt(temp[0]), Integer.parseInt(temp[1])) );
+                P.add( new Point(Long.parseLong(temp[0]), Long.parseLong(temp[1]), 2));
             }
             String s1 = String.format("%.9f", Optimized_Points/*Closest_Pair_Of_Points*/.closest(P, n));
             String s2 = String.format("%.9f", answers[k]);

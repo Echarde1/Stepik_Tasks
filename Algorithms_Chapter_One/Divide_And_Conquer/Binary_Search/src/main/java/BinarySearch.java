@@ -1,6 +1,6 @@
-public class BinarySearch {
+ public class BinarySearch {
     public static void main(String[] args) {
-        System.out.println(new BinarySearch().binarySearch(new int[]{5, 6, 7, 8}, 7));
+        System.out.println(new BinarySearch().binarySearch(new int[]{5, 6, 7, 8, 9, 10, 11, 11, 15, 18, 20, 25, 56}, 7));
     }
     private int binarySearch(int[] a, int x) {
         int l = -1;
